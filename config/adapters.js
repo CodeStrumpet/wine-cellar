@@ -30,7 +30,7 @@ module.exports.adapters = {
     port: 27017,
     //user: 'username',
     //password: 'password',
-    database: 'bridge-mongo'
+    database: 'wine-mongo'
   },
 
   // MySQL is the world's most popular relational database.
